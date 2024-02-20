@@ -1,0 +1,11 @@
+
+.row{
+  height: 100vh;
+}
+ .form-1{
+  height: 35%;
+  width: 1920px;
+  display: flex;
+  justify-content: center;
+
+ }
